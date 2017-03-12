@@ -1,7 +1,7 @@
 # javascript30
 30 projects/30 days; challenges from javascript30.com
 - visit [javascript30](https://javascript30.com)
-- visit [the official source code](https://github.com/wesbos/JavaScript30)
+- view Wes Bos' [official source code](https://github.com/wesbos/JavaScript30)
 
 ---
 
